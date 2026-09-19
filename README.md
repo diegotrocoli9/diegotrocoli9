@@ -18,9 +18,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=TU-USUARIO&color=blue&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/TU-USUARIO?label=Followers&style=flat&color=blue)
-![GitHub stars](https://img.shields.io/github/stars/TU-USUARIO?label=Stars&style=flat&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=diegotrocoli9&color=blue&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/diegotrocoli9?label=Followers&style=flat&color=blue)
+![GitHub stars](https://img.shields.io/github/stars/diegotrocoli9?label=Stars&style=flat&color=yellow)
 
 </div>
 
@@ -75,11 +75,11 @@ Mi **proyecto de fin de ciclo** es **Refúgio Atlântico**, un glamping real que
 
 <div align="center">
 
-![Español](https://img.shields.io/badge/🇪🇸_Español-Nativo-FFC400?style=for-the-badge&labelColor=C60B1E)
+![Español](https://img.shields.io/badge/🇪🇸_Español-Nativo-C60B1E?style=for-the-badge&labelColor=FFC400&logoColor=black)
 ![Portugués](https://img.shields.io/badge/🇵🇹_Portugués-Nativo-FF0000?style=for-the-badge&labelColor=006600)
-![Galego](https://img.shields.io/badge/Galego-Nativo-0057B7?style=for-the-badge&labelColor=E6F0FA)
-![Català](https://img.shields.io/badge/Català-B1-DA121A?style=for-the-badge&labelColor=FFC400)
-![English](https://img.shields.io/badge/🇬🇧_English-B1-CF142B?style=for-the-badge&labelColor=00247D)
+![Galego](https://img.shields.io/badge/Galego-Nativo-29B6F6?style=for-the-badge&labelColor=FFFFFF)
+![Català](https://img.shields.io/badge/Català-B1-FFC400?style=for-the-badge&labelColor=DA121A&logoColor=black)
+![English](https://img.shields.io/badge/🇬🇧_English-B1-00247D?style=for-the-badge&labelColor=CF142B)
 
 </div>
 
