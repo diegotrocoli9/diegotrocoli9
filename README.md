@@ -8,17 +8,19 @@
 
 <br>
 
-<!--
-  Sugerencia: aquí puedes poner una imagen de cabecera (banner) con tu nombre,
-  como en el ejemplo que te gustó. Cuando tengas una, súbela al repo y pon:
-  ![banner](./banner.png)
--->
+<div align="center">
+
+![Banner](./banner.png)
+
+</div>
+
+<br>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=diegotrocoli9&color=blue&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/diegotrocoli9?label=Followers&style=flat&color=blue)
-![GitHub stars](https://img.shields.io/github/stars/diegotrocoli9?label=Stars&style=flat&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=TU-USUARIO&color=blue&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/TU-USUARIO?label=Followers&style=flat&color=blue)
+![GitHub stars](https://img.shields.io/github/stars/TU-USUARIO?label=Stars&style=flat&color=yellow)
 
 </div>
 
@@ -50,20 +52,20 @@ Mi **proyecto de fin de ciclo** es **Refúgio Atlântico**, un glamping real que
 
 <div align="center">
 
-![Linux Server](https://img.shields.io/badge/-Linux%20Server-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Apache](https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Cisco](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![Linux Server](https://img.shields.io/badge/-Linux%20Server-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows-server)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![Apache](https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/)
+[![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Cisco](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)
+[![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 </div>
 
@@ -71,7 +73,15 @@ Mi **proyecto de fin de ciclo** es **Refúgio Atlântico**, un glamping real que
 
 ## 🌍 Idiomas
 
-`Español (nativo)` · `Portugués (nativo)` · `Galego (nativo)` · `Català (B1)` · `English (B1)`
+<div align="center">
+
+![Español](https://img.shields.io/badge/🇪🇸_Español-Nativo-FFC400?style=for-the-badge&labelColor=C60B1E)
+![Portugués](https://img.shields.io/badge/🇵🇹_Portugués-Nativo-FF0000?style=for-the-badge&labelColor=006600)
+![Galego](https://img.shields.io/badge/Galego-Nativo-0057B7?style=for-the-badge&labelColor=E6F0FA)
+![Català](https://img.shields.io/badge/Català-B1-DA121A?style=for-the-badge&labelColor=FFC400)
+![English](https://img.shields.io/badge/🇬🇧_English-B1-CF142B?style=for-the-badge&labelColor=00247D)
+
+</div>
 
 <br>
 
