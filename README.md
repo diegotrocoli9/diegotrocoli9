@@ -16,9 +16,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=TU-USUARIO&color=blue&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/TU-USUARIO?label=Followers&style=flat&color=blue)
-![GitHub stars](https://img.shields.io/github/stars/TU-USUARIO?label=Stars&style=flat&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=diegotrocoli9&color=blue&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/diegotrocoli9?label=Followers&style=flat&color=blue)
+![GitHub stars](https://img.shields.io/github/stars/diegotrocoli9?label=Stars&style=flat&color=yellow)
 
 </div>
 
