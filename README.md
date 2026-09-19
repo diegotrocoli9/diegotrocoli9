@@ -11,7 +11,7 @@ Actualmente estoy cursando el segundo año de ASIR, un ciclo centrado en redes, 
 
 Como parte de mi proceso de aprendizaje, organizo todos mis apuntes en un vault de Obsidian estructurado por asignaturas (Redes, Bases de Datos, Implantación de Sistemas Operativos...) y he creado material propio, como un manual unificado de comandos de Linux a partir de un curso completo en vídeo.
 
-Mi proyecto de fin de ciclo es Refúgio Atlântico, un glamping real que estoy desarrollando junto a mi mujer en la isla de São Miguel (Azores, Portugal). Estoy llevando toda la parte técnica: una mini-web app desplegada con Docker y Apache, accesible mediante túnel Cloudflare, una base de datos con más de 30 tablas, y un sistema de control de acceso por PIN para las cerraduras inteligentes.
+Mi proyecto de fin de ciclo es Refúgio Atlântico, un glamping real que estoy desarrollando en la isla de São Miguel (Azores, Portugal). Estoy llevando toda la parte técnica: una mini-web app desplegada con Docker y Apache, accesible mediante túnel Cloudflare, una base de datos con más de 30 tablas, y un sistema de control de acceso por PIN para las cerraduras inteligentes.
 
 🎯 Mi objetivo: convertirme en administrador de sistemas / redes, y sacar adelante Refúgio Atlântico combinando tecnología y hostelería.
 
