@@ -10,7 +10,7 @@
 
 <div align="center">
 
-![Banner](./bannerv2_.png)
+![Banner](./bannerv2.png)
 
 </div>
 
