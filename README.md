@@ -87,7 +87,7 @@ Mi **proyecto de fin de ciclo** es **Refúgio Atlântico**, un glamping real que
 
 ## 📫 Redes y contacto
 
- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-tr%C3%B3coli-dur%C3%A1n-548b42440/))
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-tr%C3%B3coli-dur%C3%A1n-548b42440/)
 <!--
   Aquí puedes añadir más adelante los iconos con enlaces a tus redes,
   por ejemplo LinkedIn, Instagram, etc. Formato de ejemplo:
